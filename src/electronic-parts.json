@@ -1,0 +1,52 @@
+[
+    {
+        "name":"Wires",
+        "description":"Semiconductor introduction.",
+        "img":""
+    },
+    {
+        "name":"Resistor",
+        "description":"Resisting current passage.",
+        "img":""
+    },
+    {
+        "name":"Cells and Batteries",
+        "description":"Storing current.",
+        "img":""
+    },
+    {
+        "name":"Inductors",
+        "description":"Storing current.",
+        "img":""
+    },
+    {
+        "name":"Capacitors",
+        "description":"Storing current.",
+        "img":""
+    },
+    {
+        "name":"Switches",
+        "description":"Storing current.",
+        "img":""
+    },
+    {
+        "name":"Fuses and Circuit Breakers",
+        "description":"Storing current.",
+        "img":""
+    },
+    {
+        "name":"Diodes",
+        "description":"Storing current.",
+        "img":""
+    },
+    {
+        "name":"Transistors",
+        "description":"Storing current.",
+        "img":""
+    },
+    {
+        "name":"Integrated Circuits",
+        "description":"Storing current.",
+        "img":""
+    }
+]
